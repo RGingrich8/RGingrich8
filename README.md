@@ -7,8 +7,8 @@ And anything IT related! <br> <br>
 Please check out my personal website! <br>
 
 ## Social Links
-🦊[Personal Website](https://rgingrich8.github.io/) <br>
-[LinkedIn](https://www.linkedin.com/in/richard-gingrich-9377a5226/)
+🦊 [Personal Website](https://rgingrich8.github.io/) <br>
+💻 [LinkedIn](https://www.linkedin.com/in/richard-gingrich-9377a5226/)
 
 ## Contact Information
 Email: richardgingrich8@gmail.com <br>

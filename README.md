@@ -1,16 +1,16 @@
-## Hi there 👋
+## Interests
+🦊 <br>
+Hello! I'm Richard, and I'm primarily interested in: <br>
+Web Development  <br>
+Server Management  <br>
+Security  <br>
+And anything IT related! <br> <br>
+Please check out my personal website! <br>
 
-<!--
-**RGingrich8/RGingrich8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Social Links
+[Personal Website](https://rgingrich8.github.io/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Information
+Email: richardgingrich8@gmail.com <br>
+Phone (mobile): +1(403)805-0329 <br>
+[LinkedIn](https://www.linkedin.com/in/richard-gingrich-9377a5226/)

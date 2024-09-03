@@ -1,8 +1,7 @@
 ## Interests
 Hello! I'm Richard, and I am primarily interested in: <br>
 Web Development  <br>
-Server Management  <br>
-Security  <br>
+App Development  <br>
 And anything IT related! <br> <br>
 Please check out my personal website! <br>
 
